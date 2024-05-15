@@ -1,0 +1,3 @@
+﻿C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\Models\UserRegistrationRequest.cs
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\Program.cs
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\UserService.cs

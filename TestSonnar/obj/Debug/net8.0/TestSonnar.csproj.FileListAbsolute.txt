@@ -1,0 +1,15 @@
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\bin\Debug\net8.0\TestSonnar.exe
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\bin\Debug\net8.0\TestSonnar.deps.json
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\bin\Debug\net8.0\TestSonnar.runtimeconfig.json
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\bin\Debug\net8.0\TestSonnar.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\bin\Debug\net8.0\TestSonnar.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\obj\Debug\net8.0\TestSonnar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\obj\Debug\net8.0\TestSonnar.AssemblyInfoInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\obj\Debug\net8.0\TestSonnar.AssemblyInfo.cs
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\obj\Debug\net8.0\TestSonnar.csproj.CoreCompileInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\obj\Debug\net8.0\TestSonnar.sourcelink.json
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\obj\Debug\net8.0\TestSonnar.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\obj\Debug\net8.0\refint\TestSonnar.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\obj\Debug\net8.0\TestSonnar.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\obj\Debug\net8.0\TestSonnar.genruntimeconfig.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SonarCloud\TestSonnar\TestSonnar\obj\Debug\net8.0\ref\TestSonnar.dll

@@ -1,0 +1,23 @@
+µ
+)TestSonnar.Models.UserRegistrationRequestobject`
+UserRegistrationRequest()CTestSonnar.Models.UserRegistrationRequest.UserRegistrationRequest()F
+Username.get6TestSonnar.Models.UserRegistrationRequest.Username.getF
+Username.set6TestSonnar.Models.UserRegistrationRequest.Username.setF
+Password.get6TestSonnar.Models.UserRegistrationRequest.Password.getF
+Password.set6TestSonnar.Models.UserRegistrationRequest.Password.set@
+	Email.get3TestSonnar.Models.UserRegistrationRequest.Email.get@
+	Email.set3TestSonnar.Models.UserRegistrationRequest.Email.setH
+FirstName.get7TestSonnar.Models.UserRegistrationRequest.FirstName.getH
+FirstName.set7TestSonnar.Models.UserRegistrationRequest.FirstName.setF
+LastName.get6TestSonnar.Models.UserRegistrationRequest.LastName.getF
+LastName.set6TestSonnar.Models.UserRegistrationRequest.LastName.setL
+DateOfBirth.get9TestSonnar.Models.UserRegistrationRequest.DateOfBirth.getL
+DateOfBirth.set9TestSonnar.Models.UserRegistrationRequest.DateOfBirth.setL
+PhoneNumber.get9TestSonnar.Models.UserRegistrationRequest.PhoneNumber.getL
+PhoneNumber.set9TestSonnar.Models.UserRegistrationRequest.PhoneNumber.setJ
+postalCode.get8TestSonnar.Models.UserRegistrationRequest.postalCode.getJ
+postalCode.set8TestSonnar.Models.UserRegistrationRequest.postalCode.setB
+
+gender.get4TestSonnar.Models.UserRegistrationRequest.gender.getB
+
+gender.set4TestSonnar.Models.UserRegistrationRequest.gender.set

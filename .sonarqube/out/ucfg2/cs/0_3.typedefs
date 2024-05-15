@@ -1,0 +1,6 @@
+Ì
+TestSonnar.UserServiceobjectÕ
+]RegisterUser(string, string, string, string, string, System.DateTime, string, string, string)tTestSonnar.UserService.RegisterUser(string, string, string, string, string, System.DateTime, string, string, string)M
+LoginUser(string, string)0TestSonnar.UserService.LoginUser(string, string)Ë
+XIsValid(string, string, string, string, string, System.DateTime, string, string, string)oTestSonnar.UserService.IsValid(string, string, string, string, string, System.DateTime, string, string, string)5
+UserService()$TestSonnar.UserService.UserService()

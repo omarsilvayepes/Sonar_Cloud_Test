@@ -6,7 +6,7 @@ Console.WriteLine("Hello, World!");
 UserService userService = new UserService();
 
 // Register user
-userService.RegisterUser("john_doe", "password123");
+userService.RegisterUser("john_doe", "password123","","","",DateTime.Now,"","","");
 
 // Login user
 userService.LoginUser("john_doe", "password123");

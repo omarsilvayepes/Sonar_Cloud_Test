@@ -1,0 +1,7 @@
+organization=omarsilvayepes
+projectKey=omarsilvayepes_SonarCloudTest
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.54409
+dashboardUrl=https://sonarcloud.io/dashboard?id=omarsilvayepes_SonarCloudTest
+ceTaskId=AY9-IitMyGYSZaWMgdn4
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY9-IitMyGYSZaWMgdn4

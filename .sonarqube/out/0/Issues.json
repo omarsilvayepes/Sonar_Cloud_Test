@@ -1,0 +1,1036 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.8.0.0",
+        "fileVersion": "4.8.0-3.23524.11 (f43cd10b)",
+        "semanticVersion": "4.8.0",
+        "language": "es-ES"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Username\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 27,
+                  "endLine": 11,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 27,
+                  "endLine": 11,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Password\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 27,
+                  "endLine": 12,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 27,
+                  "endLine": 12,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Email\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 27,
+                  "endLine": 13,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 27,
+                  "endLine": 13,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"FirstName\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 27,
+                  "endLine": 14,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 27,
+                  "endLine": 14,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"LastName\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 27,
+                  "endLine": 15,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 27,
+                  "endLine": 15,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"PhoneNumber\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 27,
+                  "endLine": 17,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 27,
+                  "endLine": 17,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"postalCode\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 27,
+                  "endLine": 18,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 27,
+                  "endLine": 18,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"gender\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 27,
+                  "endLine": 19,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/Models/UserRegistrationRequest.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 27,
+                  "endLine": 19,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Se detectó código inaccesible",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 13,
+                  "endLine": 38,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0219",
+          "level": "warning",
+          "message": "La variable 'unusedVar' está asignada pero su valor nunca se usa",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 20,
+                  "endLine": 17,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 21,
+                  "endLine": 61,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 13,
+                  "endLine": 66,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 17,
+                  "endLine": 67,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 21,
+                  "endLine": 69,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 25,
+                  "endLine": 71,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 29,
+                  "endLine": 73,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 33,
+                  "endLine": 75,
+                  "endColumn": 35
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 37,
+                  "endLine": 76,
+                  "endColumn": 39
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 41,
+                  "endLine": 78,
+                  "endColumn": 43
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 45,
+                  "endLine": 80,
+                  "endColumn": 47
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 49,
+                  "endLine": 82,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+2 (incl 1 for nesting)",
+              "2": "+3 (incl 2 for nesting)",
+              "3": "+4 (incl 3 for nesting)",
+              "4": "+5 (incl 4 for nesting)",
+              "5": "+6 (incl 5 for nesting)",
+              "6": "+7 (incl 6 for nesting)",
+              "7": "+8 (incl 7 for nesting)",
+              "8": "+9 (incl 8 for nesting)",
+              "9": "+10 (incl 9 for nesting)"
+            }
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 17,
+                  "endLine": 67,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 13,
+                  "endLine": 66,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 21,
+                  "endLine": 69,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 17,
+                  "endLine": 67,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 25,
+                  "endLine": 71,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 21,
+                  "endLine": 69,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 29,
+                  "endLine": 73,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 25,
+                  "endLine": 71,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 33,
+                  "endLine": 75,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 29,
+                  "endLine": 73,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 37,
+                  "endLine": 76,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 33,
+                  "endLine": 75,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 41,
+                  "endLine": 78,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 37,
+                  "endLine": 76,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 45,
+                  "endLine": 80,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 41,
+                  "endLine": 78,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 49,
+                  "endLine": 82,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 45,
+                  "endLine": 80,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 9 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 28,
+                  "endLine": 64,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 9 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 33,
+                  "endLine": 14,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'unusedVar'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 20,
+                  "endLine": 17,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'isvalid'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 17,
+                  "endLine": 22,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "El miembro \"LoginUser\" no tiene acceso a los datos de la instancia y se puede marcar como static.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 21,
+                  "endLine": 46,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "El miembro \"IsValid\" no tiene acceso a los datos de la instancia y se puede marcar como static.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/omary/OneDrive/Escritorio/LearningDEV/SonarCloud/TestSonnar/TestSonnar/UserService.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 21,
+                  "endLine": 61,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1822": {
+          "id": "CA1822",
+          "shortDescription": "Marcar miembros como static",
+          "fullDescription": "Los miembros que no tienen acceso a datos de instancia o que llaman a métodos de instancia se pueden marcar como static. Después de marcar los métodos como static, el compilador emitirá los sitios de llamada no virtuales para estos miembros. Esto puede proporcionar una mejora apreciable del rendimiento del código sensible al rendimiento.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1822",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS0162": {
+          "id": "CS0162",
+          "shortDescription": "Se detectó código inaccesible",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0162)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS0219": {
+          "id": "CS0219",
+          "shortDescription": "La variable está asignada pero nunca se usa su valor",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0219)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Un campo que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declararlo como que admite un valor NULL.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1066": {
+          "id": "S1066",
+          "shortDescription": "Mergeable \"if\" statements should be combined",
+          "fullDescription": "Nested code - blocks of code inside blocks of code - is eventually necessary, but increases complexity. This is why keeping the code as flat as possible, by avoiding unnecessary nesting, is considered a good practice.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1066",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S107": {
+          "id": "S107",
+          "shortDescription": "Methods should not have too many parameters",
+          "fullDescription": "Methods with a long parameter list are difficult to use because maintainers must figure out the role of each parameter and keep track of their position.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-107",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "An unused local variable is a variable that has been declared but is not used anywhere in the block of code where it is defined. It is dead code, contributing to unnecessary complexity and leading to confusion when reading the code. Therefore, it should be removed from your code to maintain clarity and efficiency.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "This rule raises an issue when the code cognitive complexity of a function is above a certain threshold.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
